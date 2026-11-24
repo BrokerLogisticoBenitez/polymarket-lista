@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T15:36:42Z",
+ "actualizado": "2026-11-24T17:00:51Z",
  "aprobados": [
   {
    "id": "0xef55dce101d27dbb78f8069d1f82055425ba76d82ee5233ecbd54b6f51f4fa60",
@@ -55,21 +55,6 @@
    "id": "0x450810ae738a0ff820d3248f2b24937f63fb8c8cf422ed2a915125adb4d9d3c8",
    "q": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
    "motivo": "Nominacion 2028; muy lejos."
-  },
-  {
-   "id": "0x32018ac6e226dbcf3154e78f6f834e381077a23bb412dc9d28f480613e34b21e",
-   "q": "Will AI solve the Riemann Hypothesis in 2026?",
-   "motivo": "Sin anuncio esperado; evento muy improbable y lento."
-  },
-  {
-   "id": "0x56165f5c4392da9f013c5e728cf0eec8c13d41855e0d9d4300680c0a4d480291",
-   "q": "Will AI solve P versus NP in 2026?",
-   "motivo": "Sin anuncio esperado; evento muy improbable y lento."
-  },
-  {
-   "id": "0x73a0ebbe09bfe1cdbf0d4deb13f55742d15dd8803845099557aa3afd776804f7",
-   "q": "Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?",
-   "motivo": "Termina en 2028; lento."
   }
  ],
  "rechazados": [
@@ -104,6 +89,10 @@
   {
    "q": "GTA VI streamers, Spotify, Rotten Tomatoes, Google, Miss Universo, pavo de Trump",
    "motivo": "Se ve en vivo o se decide en dias."
+  },
+  {
+   "q": "IA resuelve Riemann / P vs NP (los 3)",
+   "motivo": "Noticias activas: IA probo la hipotesis cuasi-Riemann en octubre y salen anuncios seguido; el precio brinca con cada anuncio."
   }
  ]
 }
